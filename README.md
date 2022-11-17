@@ -1,4 +1,4 @@
-### Hi there, my name is Kaique, but u can call me by Delta be very welcome to my place 👋
+### :stuck_out_tongue_winking_eye: Hi there, my name is Kaique, but u can call me by Delta be very welcome to my place 👋
 
 <!--
 **DeltaKSP/DeltaKSP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
