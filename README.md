@@ -7,7 +7,7 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://camo.githubusercontent.com/890499e78808401c5d00e766759263216c14a7da8807ec705ab3f9ed4c909ec4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d637269746963616c3f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465">
   <br>
-  ##
+  --------------------------------------------------------------------------------------------------------------------------------------------------------------
 </div>
 <div align="center">
   <a href="https://github.com/DeltaKSP">
