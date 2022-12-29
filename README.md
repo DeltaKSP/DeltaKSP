@@ -1,4 +1,4 @@
-sysout.println("Ola mundo!!!")
+console.log("Ola mundo!!!")
 
 ### :stuck_out_tongue_winking_eye: Hi there, my name is Kaique, but u can call me by Delta be very welcome to my place 👋
 <div style="display: inline_block"><br>
