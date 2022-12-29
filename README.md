@@ -1,12 +1,12 @@
 ### :stuck_out_tongue_winking_eye: Hi there, my name is Kaique, but u can call me by Delta be very welcome to my place 👋
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://camo.githubusercontent.com/890499e78808401c5d00e766759263216c14a7da8807ec705ab3f9ed4c909ec4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d637269746963616c3f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465">
-  <br>
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://camo.githubusercontent.com/890499e78808401c5d00e766759263216c14a7da8807ec705ab3f9ed4c909ec4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d637269746963616c3f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465">
+  <img align="center" alt="Spring" height="30" width="40" src="https://camo.githubusercontent.com/a2de9c3bb9fd0fb69e86f25699e02cd26fbcc9eeb583839db7f8df927717eb40/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f537072696e672d3639423034433f7374796c653d666f722d7468652d6261646765266c6f676f3d737072696e67266c6f676f436f6c6f723d7768697465"> 
   ---------------------------------------------------------------------------------------------------------------------------------------------
 </div>
 <div align="center">
