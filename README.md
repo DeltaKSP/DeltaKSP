@@ -6,7 +6,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://camo.githubusercontent.com/890499e78808401c5d00e766759263216c14a7da8807ec705ab3f9ed4c909ec4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d637269746963616c3f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465">
-  <img align="center" alt="Spring" height="30" width="65" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.clipartmax.com%2Fmiddle%2Fm2i8i8d3N4b1G6i8_spring-data-team-spring-framework-icon%2F&psig=AOvVaw3GIE82vAy2vzg1AfIKHFdb&ust=1672367349912000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCLimoIDknfwCFQAAAAAdAAAAABAI"> 
+  <img align="center" alt="Spring" height="30" width="40" src="https://user-images.githubusercontent.com/33158051/103925017-e7673b80-50e4-11eb-9379-ceb82e3f382c.png"> 
   
   --------------------------------------------------------------------------------------------------------------------------
 </div>
